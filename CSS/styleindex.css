@@ -1,0 +1,14 @@
+body{
+    margin: Opx;
+    padding: 0px;
+}
+
+header{
+    background-image:url(../RESSOURCES/hero-bg.jpg);
+    height: 300px;
+
+}
+
+button{
+    cursor: pointer;
+}
